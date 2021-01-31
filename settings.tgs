@@ -1,0 +1,3 @@
+serve_folder=serve
+home_file=index.html
+port=80
